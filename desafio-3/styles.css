@@ -1,0 +1,12 @@
+div {
+  padding: 20px;
+}
+
+div.grey {
+  background-color: #F5F5F5;
+  margin-bottom: 40px;
+}
+
+div.pink {
+  background-color: #F0CCE2;
+}
