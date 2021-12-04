@@ -1,0 +1,15 @@
+table.moda, table.casa {
+  color: #ffffff;
+}
+
+tr.produtos-moda, tr.produtos-casa {
+  background-color: #424250;
+}
+
+tr.cabecalho-moda {
+  background-color:#BB86FC;
+}
+
+tr.cabecalho-casa {
+  background-color: #00C4B4;
+}
