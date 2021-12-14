@@ -1,5 +1,9 @@
 * {
-  font-size: 22px;
+  font-size: 23px;
+}
+
+h3 {
+  margin-bottom: 19px;
 }
 
 table.moda, table.casa {
@@ -19,5 +23,5 @@ tr.cabecalho-casa {
 }
 
 th, td {
-  padding: 11px;
+  padding: 10px;
 }
